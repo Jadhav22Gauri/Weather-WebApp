@@ -14,6 +14,7 @@ a good ux/ui
 
 Snapshot 
 a) Default
+https://github.com/Jadhav22Gauri/Weather-WebApp/blob/main/default.PNG
 
 
 
