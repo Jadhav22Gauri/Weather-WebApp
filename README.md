@@ -16,6 +16,8 @@ Snapshot
 a) Default
 https://github.com/Jadhav22Gauri/Weather-WebApp/blob/main/default.PNG
 
+b) when you entered any valid city
+
 
 
 
